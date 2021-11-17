@@ -1,0 +1,17 @@
+{
+    "name": "pysec/request",
+    "authors": [
+        {
+            "name": "pysec",
+            "email": "pysec@ai.com"
+        }
+    ],
+    "require": {
+        "topthink/framework": "~5.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "pysec\\request\\": "src/"
+        }
+    }
+}
