@@ -6,9 +6,7 @@
             "email": "pysec@ai.com"
         }
     ],
-    "require": {
-        "topthink/framework": "~5.0.0"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "pysec\\request\\": "src/"
